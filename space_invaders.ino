@@ -3,7 +3,7 @@
 #include <Adafruit_GFX.h>
 
 // define the wiring of the LED screen
-const uint8_t CLK  = 8;
+const uint8_t CLK  = 7;
 const uint8_t LAT = A3;
 const uint8_t OE = 9;
 const uint8_t A = A0;
